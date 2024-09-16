@@ -4,6 +4,6 @@
 
 Check out the LinkedIn article detailing our latest project on analysis of the sales performance for a Bike Analysis Project
 
-[Read the full article](https://www.linkedin.com/posts/yongkang-5517b631b_mysql-powerbi-healthdata-activity-7240228967041970176-OBdM?utm_source=share&utm_medium=member_desktop)
+[Read the full article](https://www.linkedin.com/feed/update/urn:li:activity:7241332168080183296/)
 
-<a href="(https://www.linkedin.com/posts/yongkang-5517b631b_mysql-powerbi-healthdata-activity-7240228967041970176-OBdM?utm_source=share&utm_medium=member_desktop)">
+<a href="(https://www.linkedin.com/feed/update/urn:li:activity:7241332168080183296/)"
