@@ -6,4 +6,3 @@ Check out the LinkedIn article detailing our latest project on analysis of the s
 
 [Read the full article](https://www.linkedin.com/feed/update/urn:li:activity:7241332168080183296/)
 
-<a href="(https://www.linkedin.com/feed/update/urn:li:activity:7241332168080183296/)"
